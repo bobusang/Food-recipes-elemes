@@ -21,13 +21,20 @@ function Home() {
                     <div className="text-subhead-sm font-bold text-black-100 ">Browser Our Category</div>
                     <div className="text-subhead-sm font-bold text-green-dark ">Receipt</div>
                 </div>
-                <div className="overflow-scroll">
-                    <div className="flex space-x-2">
-                        <Category />
-                        <Category />
-                        <Category />
-                        <Category />
-                    </div>
+
+                <div className="-mx-8 overflow-scroll pt-4 pb-24">                   
+                        <div className="z-50 flex space-x-2">
+                            <Category />
+                            <Category />
+                            <Category />
+                            <Category />
+                        </div>
+                        <button className="rounded-full bg-green-dark text-white font-semibold p-2">Next</button>
+                </div>
+
+                <div>
+                    <div className="text-subhead-sm font-bold text-black-100 ">Browser Our Trending</div>
+                    <div className="text-subhead-sm font-bold text-green-dark ">Receipt</div>
                 </div>
             </div>
         </div>

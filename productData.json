@@ -1,0 +1,46 @@
+{
+    "Categories": [
+        {
+            "id": "001",
+            "title": "Cupcake",
+            "image": "#",
+            "qty": "22",
+            "bg_scheme":"#fffff",
+            "products": [
+                {
+                "id": "101",
+                "title": "Doughnut Milk",
+                "image": "#",
+                "rating": "5"
+            },
+            {
+                "id": "201",
+                "title": "Doughnut Milk",
+                "image": "#",
+                "rating": "5"
+            }
+        ]
+        },
+        {
+            "id": "002",
+            "title": "Pizza",
+            "image": "#",
+            "qty": "25",
+            "bg_scheme":"#E6F3F5",
+            "products": [
+                {
+                "id": "102",
+                "title": "Pizza Pepperoni",
+                "image": "#",
+                "rating": "4"
+            },
+            {
+                "id": "202",
+                "title": "Pizza Meat",
+                "image": "#",
+                "rating": "3"
+            }
+        ]
+        }
+    ]
+}

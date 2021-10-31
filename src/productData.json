@@ -3,7 +3,6 @@
         {
             "id": "001",
             "title": "Cupcake",
-            "image": "https://svgshare.com/i/bbx.svg",
             "qty": "22",
             "bg_scheme":"bg-green-light",
             "products": [
@@ -18,7 +17,6 @@
         {
             "id": "002",
             "title": "Pizza",
-            "image": "https://svgshare.com/i/bam.svg",
             "qty": "25",
             "bg_scheme":"bg-aqua-light",
             "products": [
@@ -39,7 +37,6 @@
         {
             "id": "003",
             "title": "Kebab",
-            "image": "https://svgshare.com/i/bbn.svg",
             "qty": "12",
             "bg_scheme":"bg-purple-light",
             "products": [
@@ -60,7 +57,6 @@
         {
             "id": "004",
             "title": "Salmon",
-            "image": "https://svgshare.com/i/bcW.svg",
             "qty": "22",
             "bg_scheme":"bg-violet-light",
             "products": [
@@ -75,7 +71,6 @@
         {
             "id": "005",
             "title": "Doughnut",
-            "image": "https://svgshare.com/i/bcr.svg",
             "qty": "11",
             "bg_scheme":"bg-lime-light",
             "products": [

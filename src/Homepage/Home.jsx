@@ -42,7 +42,6 @@ function Home() {
                         return (
                             <>
                             <Category 
-                            icon = {medium.image}
                             bg = {medium.bg_scheme}
                             title = {medium.title}
                             qty = {medium.qty}
@@ -54,7 +53,6 @@ function Home() {
                         return (
                             <>
                             <Category 
-                            icon = {medium.image}
                             bg = {medium.bg_scheme}
                             title = {medium.title}
                             qty = {medium.qty}

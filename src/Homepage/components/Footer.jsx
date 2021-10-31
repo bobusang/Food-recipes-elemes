@@ -2,8 +2,8 @@ import React from 'react'
 
 function Footer() {
     return (
-        <div className='px-28'>
-            <div className="bg-green-light rounded-2xl py-8 px-16 flex items-start justify-between">
+        <div className=' lg:px-28'>
+            <div className="bg-green-light rounded-2xl space-y-8 md:space-y-0 py-8 px-16 md:flex items-start justify-between">
                 <div className="space-y-8">
                 <img src="https://imgur.com/uXTzwry.png" alt="elemes logo" />
                 <div className="w-80 text-link-md text-gray-500 ">

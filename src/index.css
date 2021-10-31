@@ -1,7 +1,9 @@
 /* ./src/index.css */
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 
 body {
   margin: 0;
@@ -12,7 +14,18 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+#category{
+  -ms-overflow-style: none; /* for Internet Explorer, Edge */
+    scrollbar-width: none; /* for Firefox */
+    overflow-x: scroll; 
+}
+
+#category::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+

@@ -14,7 +14,10 @@ module.exports = {
         'desktop-pattern': "url('https://imgur.com/ANTUhYk.png')",
         'catHover-pattern': "url('https://imgur.com/JpV6LjU.png')",
       },
-      
+      fontFamily: {
+        "display": 'Rubik',
+        'body': 'Rubik'
+      },
       fontSize: {
         'head-sm': ['48px', '64px'],
         'p-sm': ['18px', '29px'],
@@ -23,9 +26,7 @@ module.exports = {
 
         'link-md': ['14px', '22px'],
         'head-md': ['64px', '64px'],
-        'badge': ['8px', '14px'],
-        
-
+        'badge': ['8px', '14px']
       },
       colors: {
         green:{

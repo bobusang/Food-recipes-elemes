@@ -56,7 +56,7 @@ function Food(props) {
                 <span class="fa fa-star text-yellow-400"></span>               
                 </>
             )
-            deault:
+            default:
                 return null
         }
     }
